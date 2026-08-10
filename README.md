@@ -1,21 +1,11 @@
-# abhi07gupta.github.io
+# Abhi Gupta — public portfolio website
 
-Source for my public professional website. The site covers Enterprise AI architecture, technical leadership, selected public-safe work, writing and speaking.
+Production source for [abhi07gupta.github.io](https://abhi07gupta.github.io/).
 
-## Local preview
+The site is a dependency-free GitHub Pages build with semantic HTML, responsive
+CSS, keyboard navigation, reduced-motion support, metadata, structured data,
+sitemap, robots rules, a custom 404 page, and direct links to the public CV,
+LinkedIn, and GitHub projects.
 
-The site is intentionally static and dependency-free. From this directory:
-
-```bash
-python -m http.server 8000
-```
-
-Then open `http://localhost:8000`.
-
-## Publishing
-
-This repository is intended for GitHub Pages at `https://abhi07gupta.github.io`. Publish from the `main` branch root.
-
-## Content boundary
-
-Everything here is public-safe. It intentionally excludes employer-confidential architecture, internal project names, private metrics, salary information and private career-planning material.
+All examples are synthetic or sanitized. No employer-confidential architecture
+or private metrics are published.
